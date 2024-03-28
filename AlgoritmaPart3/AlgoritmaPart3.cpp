@@ -37,5 +37,9 @@ void swap(int x, int y) {
 
 void q_short(int low, in high)
 {
-	
+	int temp;
+	int pivot, i, j;
+	if (low > high) {
+		return;
+	}
 }
